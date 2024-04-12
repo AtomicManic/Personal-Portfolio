@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# React
+package-lock.json
+build/
+dist/
+
+# TypeScript
+*.js
+*.js.map
+*.d.ts
+
+# IDE/Editor specific
+.vscode/
+.idea/
+*.iml
+
+# Miscellaneous
+.DS_Store
+.env
